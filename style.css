@@ -41,7 +41,7 @@ h5 {
   align-content: center;
   justify-items: center;
 }
-.birthdaySubmit {
+.btn {
   background-color: blueviolet;
   color: black;
   font-family: var(--font-family);
